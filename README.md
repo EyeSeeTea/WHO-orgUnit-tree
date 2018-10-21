@@ -8,6 +8,7 @@ Per country there may exist 5 different files:
 - *xxx_original.yyy*
 - *xxx_shape_original.yyy*
 
+**Notes:**
 - *xxx* represents the country in ISO 3166-1 alpha-3 format (ISO 3). 
 - *yyy* represents any file extension
 - *xxx.json* is the json file representing the OU tree ready to be imported in a DHIS2 system
