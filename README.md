@@ -16,6 +16,7 @@ Per country there may exist 5 different files:
 - *xxx.gml* is the gml file representing the OU tree coordinates ready to be imported in a DHIS2 system
 - *xxx_gml_original.yyy* is the original file obtained by the program submitting the OU tree (when different from the DHIS2-ready gml file)
 - *xxx_source_prio.txt* is the source priority file. It contain the priority of the current OU source according to WHO priorities list as well as for the source priority for the gml file when different from the json.
+- There's an auxiliar script called *create_repo_structure.sh" to create the repository folders when the repo is empty. To use it just execute ./create_repo_structure.sh ISO3.txt
 
 
 ## Source priorities list:
