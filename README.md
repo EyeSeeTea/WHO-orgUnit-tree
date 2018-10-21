@@ -2,11 +2,11 @@
 DHIS2 Organisation Unit Tree for the WHO
 
 Per country there may exist 5 different files:
-*xxx.json*
-*xxx.gml*
-*xxx_source_prio.txt*
-*xxx_original.yyy*
-*xxx_shape_original.yyy*
+- *xxx.json*
+- *xxx.gml*
+- *xxx_source_prio.txt*
+- *xxx_original.yyy*
+- *xxx_shape_original.yyy*
 
 - *xxx* represents the country in ISO 3166-1 alpha-3 format (ISO 3). 
 - *yyy* represents any file extension
