@@ -4,7 +4,7 @@ DHIS2 Organisation Unit Tree for the WHO
 Per country there may exist 5 different files:
 - *xxx.json*
 - *xxx.gml*
-- *xxx_original.yyy*
+- *xxx_json_original.yyy*
 - *xxx_gml_original.yyy*
 - *xxx_source_prio.txt*
 
@@ -12,7 +12,7 @@ Per country there may exist 5 different files:
 - *xxx* represents the country in ISO 3166-1 alpha-3 format (ISO 3). 
 - *yyy* represents any file extension
 - *xxx.json* is the json file representing the OU tree ready to be imported in a DHIS2 system
-- *xxx_original.yyy* is the original file obtained by the program submitting the OU tree (when different from a DHIS2 json file)
+- *xxx_json_original.yyy* is the original file obtained by the program submitting the OU tree (when different from a DHIS2 json file)
 - *xxx.gml* is the gml file representing the OU tree coordinates ready to be imported in a DHIS2 system
 - *xxx_gml_original.yyy* is the original file obtained by the program submitting the OU tree (when different from the DHIS2-ready gml file)
 - *xxx_source_prio.txt* is the source priority file. It contain the priority of the current OU source according to WHO priorities list as well as for the source priority for the gml file when different from the json.
