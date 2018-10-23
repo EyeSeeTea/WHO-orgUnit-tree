@@ -3,6 +3,12 @@
 file=$1
 ret=
 
+if [ $# -eq 0 ]; then
+	echo "ERROR this script need to be executed with one parameter: name of the file containing the list of countries in the format CODE|NAME"
+	echo "Suggestion: if you don't know what to do, you probably want to execute \"./create_repo_structure.sh ISO3.txt\""
+	exit 1
+fi
+
 echo "creating folders..."
 while IFS='|' read -r isocode countryname
 do
