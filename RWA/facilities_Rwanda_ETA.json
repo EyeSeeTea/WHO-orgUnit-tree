@@ -1,0 +1,317 @@
+{
+    "date": "2019-09-26T09:23:32.818Z",
+    "organisationUnits": [
+        {
+            "metadataType": "organisationUnits",
+            "lastUpdated": "2019-09-26T11:17:29.403",
+            "id": "CTvAiDhMMLc",
+            "level": 6,
+            "created": "2019-09-26T11:09:15.525",
+            "name": "University Teaching Hospital of Kigali",
+            "shortName": "University Teaching Hospital of Kigali",
+            "leaf": true,
+            "path": "/H8RixfF8ugH/seHJdofSPcM/UlQiEogy3wG/ZwmWX8d23ZL/egyB8Gm2mlU/CTvAiDhMMLc",
+            "favorite": false,
+            "dimensionItemType": "ORGANISATION_UNIT",
+            "displayName": "University Teaching Hospital of Kigali",
+            "displayShortName": "University Teaching Hospital of Kigali",
+            "externalAccess": false,
+            "featureType": "POINT",
+            "openingDate": "1970-01-01T00:00:00.000",
+            "dimensionItem": "CTvAiDhMMLc",
+            "coordinates": "[30.060529,1.955837]",
+            "parent": {
+                "id": "egyB8Gm2mlU"
+            },
+            "lastUpdatedBy": {},
+            "access": {
+                "read": true,
+                "update": true,
+                "externalize": true,
+                "delete": true,
+                "write": true,
+                "manage": true
+            },
+            "user": {},
+            "children": [],
+            "translations": [],
+            "ancestors": [
+                {
+                    "id": "H8RixfF8ugH"
+                },
+                {
+                    "id": "seHJdofSPcM"
+                },
+                {
+                    "id": "UlQiEogy3wG"
+                },
+                {
+                    "id": "ZwmWX8d23ZL"
+                },
+                {
+                    "id": "egyB8Gm2mlU"
+                }
+            ],
+            "organisationUnitGroups": [],
+            "userGroupAccesses": [],
+            "attributeValues": [
+                {
+                    "lastUpdated": "2019-09-26T11:17:09.830",
+                    "created": "2019-09-26T11:17:09.830",
+                    "value": "MoH",
+                    "attribute": {
+                        "id": "LmiNNUPlMxI"
+                    }
+                },
+                {
+                    "lastUpdated": "2019-09-26T11:17:09.830",
+                    "created": "2019-09-26T11:17:09.830",
+                    "value": "MoH",
+                    "attribute": {
+                        "id": "CxPTd6iKfUK"
+                    }
+                }
+            ],
+            "users": [],
+            "userAccesses": [],
+            "dataSets": [],
+            "legendSets": [],
+            "programs": [],
+            "favorites": []
+        },
+        {
+            "metadataType": "organisationUnits",
+            "lastUpdated": "2019-09-26T11:19:27.795",
+            "id": "NACc5eSPNtF",
+            "level": 6,
+            "created": "2019-09-26T11:11:16.607",
+            "name": "University Teaching Hospital of Butare",
+            "shortName": "University Teaching Hospital of Butare",
+            "leaf": true,
+            "path": "/H8RixfF8ugH/seHJdofSPcM/UlQiEogy3wG/SWWJzo2eGqX/Xx3D15GpFoJ/NACc5eSPNtF",
+            "favorite": false,
+            "dimensionItemType": "ORGANISATION_UNIT",
+            "displayName": "University Teaching Hospital of Butare",
+            "displayShortName": "University Teaching Hospital of Butare",
+            "externalAccess": false,
+            "featureType": "POINT",
+            "openingDate": "1970-01-01T00:00:00.000",
+            "dimensionItem": "NACc5eSPNtF",
+            "coordinates": "[29.735937,-2.610867]",
+            "parent": {
+                "id": "Xx3D15GpFoJ"
+            },
+            "lastUpdatedBy": {},
+            "access": {
+                "read": true,
+                "update": true,
+                "externalize": true,
+                "delete": true,
+                "write": true,
+                "manage": true
+            },
+            "user": {},
+            "children": [],
+            "translations": [],
+            "ancestors": [
+                {
+                    "id": "H8RixfF8ugH"
+                },
+                {
+                    "id": "seHJdofSPcM"
+                },
+                {
+                    "id": "UlQiEogy3wG"
+                },
+                {
+                    "id": "SWWJzo2eGqX"
+                },
+                {
+                    "id": "Xx3D15GpFoJ"
+                }
+            ],
+            "organisationUnitGroups": [],
+            "userGroupAccesses": [],
+            "attributeValues": [
+                {
+                    "lastUpdated": "2019-09-26T11:19:03.747",
+                    "created": "2019-09-26T11:19:03.747",
+                    "value": "MoH",
+                    "attribute": {
+                        "id": "LmiNNUPlMxI"
+                    }
+                },
+                {
+                    "lastUpdated": "2019-09-26T11:19:03.747",
+                    "created": "2019-09-26T11:19:03.747",
+                    "value": "MoH",
+                    "attribute": {
+                        "id": "CxPTd6iKfUK"
+                    }
+                }
+            ],
+            "users": [],
+            "userAccesses": [],
+            "dataSets": [],
+            "legendSets": [],
+            "programs": [],
+            "favorites": []
+        },
+        {
+            "metadataType": "organisationUnits",
+            "lastUpdated": "2019-09-26T11:18:16.964",
+            "id": "GydC5GL8Yy4",
+            "level": 6,
+            "created": "2019-09-26T11:12:53.773",
+            "name": "Ruhengeri",
+            "shortName": "Ruhengeri",
+            "leaf": true,
+            "path": "/H8RixfF8ugH/seHJdofSPcM/UlQiEogy3wG/LiV30yRfsu1/zZ5jCXSo5o3/GydC5GL8Yy4",
+            "favorite": false,
+            "dimensionItemType": "ORGANISATION_UNIT",
+            "displayName": "Ruhengeri",
+            "displayShortName": "Ruhengeri",
+            "externalAccess": false,
+            "featureType": "POINT",
+            "openingDate": "1970-01-01T00:00:00.000",
+            "dimensionItem": "GydC5GL8Yy4",
+            "coordinates": "[29.637349,-1.506700]",
+            "parent": {
+                "id": "zZ5jCXSo5o3"
+            },
+            "lastUpdatedBy": {},
+            "access": {
+                "read": true,
+                "update": true,
+                "externalize": true,
+                "delete": true,
+                "write": true,
+                "manage": true
+            },
+            "user": {},
+            "children": [],
+            "translations": [],
+            "ancestors": [
+                {
+                    "id": "H8RixfF8ugH"
+                },
+                {
+                    "id": "seHJdofSPcM"
+                },
+                {
+                    "id": "UlQiEogy3wG"
+                },
+                {
+                    "id": "LiV30yRfsu1"
+                },
+                {
+                    "id": "zZ5jCXSo5o3"
+                }
+            ],
+            "organisationUnitGroups": [],
+            "userGroupAccesses": [],
+            "attributeValues": [
+                {
+                    "lastUpdated": "2019-09-26T11:17:57.146",
+                    "created": "2019-09-26T11:17:57.146",
+                    "value": "MoH",
+                    "attribute": {
+                        "id": "LmiNNUPlMxI"
+                    }
+                },
+                {
+                    "lastUpdated": "2019-09-26T11:17:57.146",
+                    "created": "2019-09-26T11:17:57.146",
+                    "value": "MoH",
+                    "attribute": {
+                        "id": "CxPTd6iKfUK"
+                    }
+                }
+            ],
+            "users": [],
+            "userAccesses": [],
+            "dataSets": [],
+            "legendSets": [],
+            "programs": [],
+            "favorites": []
+        },
+        {
+            "metadataType": "organisationUnits",
+            "lastUpdated": "2019-09-26T11:16:41.941",
+            "id": "pptiBsCkNtF",
+            "level": 6,
+            "created": "2019-09-26T11:16:14.371",
+            "name": "Rwanda Military Hospital",
+            "shortName": "Rwanda Military Hospital",
+            "leaf": true,
+            "path": "/H8RixfF8ugH/seHJdofSPcM/UlQiEogy3wG/ZwmWX8d23ZL/XZlvZ7RW6UP/pptiBsCkNtF",
+            "favorite": false,
+            "dimensionItemType": "ORGANISATION_UNIT",
+            "displayName": "Rwanda Military Hospital",
+            "displayShortName": "Rwanda Military Hospital",
+            "externalAccess": false,
+            "featureType": "POINT",
+            "openingDate": "1970-01-01T00:00:00.000",
+            "dimensionItem": "pptiBsCkNtF",
+            "coordinates": "[30.169013,-1.977493]",
+            "parent": {
+                "id": "XZlvZ7RW6UP"
+            },
+            "lastUpdatedBy": {},
+            "access": {
+                "read": true,
+                "update": true,
+                "externalize": true,
+                "delete": true,
+                "write": true,
+                "manage": true
+            },
+            "user": {},
+            "children": [],
+            "translations": [],
+            "ancestors": [
+                {
+                    "id": "H8RixfF8ugH"
+                },
+                {
+                    "id": "seHJdofSPcM"
+                },
+                {
+                    "id": "UlQiEogy3wG"
+                },
+                {
+                    "id": "ZwmWX8d23ZL"
+                },
+                {
+                    "id": "XZlvZ7RW6UP"
+                }
+            ],
+            "organisationUnitGroups": [],
+            "userGroupAccesses": [],
+            "attributeValues": [
+                {
+                    "lastUpdated": "2019-09-26T11:16:14.371",
+                    "created": "2019-09-26T11:16:14.371",
+                    "value": "MoH",
+                    "attribute": {
+                        "id": "CxPTd6iKfUK"
+                    }
+                },
+                {
+                    "lastUpdated": "2019-09-26T11:16:14.371",
+                    "created": "2019-09-26T11:16:14.371",
+                    "value": "MoH",
+                    "attribute": {
+                        "id": "LmiNNUPlMxI"
+                    }
+                }
+            ],
+            "users": [],
+            "userAccesses": [],
+            "dataSets": [],
+            "legendSets": [],
+            "programs": [],
+            "favorites": []
+        }
+    ]
+}
